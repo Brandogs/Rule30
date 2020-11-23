@@ -1,0 +1,6 @@
+framework module Pods_Rule30 {
+  umbrella header "Pods-Rule30-umbrella.h"
+
+  export *
+  module * { export * }
+}
